@@ -11,7 +11,7 @@ The song is Ocean Man by Ween from the Spongebob Squarepants Movie
 					<figcaption>OceanMan</figcaption>
 				</figure>
 
-# Take me by the Hand
+# 
 <aside class="notes">
 Take me by the Hand
 </aside>
@@ -41,13 +41,16 @@ Take me by the Hand
 					<figcaption>Squidward</figcaption>
 				</figure>
         
-# The voyage to the corner of the globe is a real trip
+# 
 <aside class="notes">The voyage to the corner of the globe is a real trip</aside>
+<p>
+The voyage to the corner of the globe is a real trip
+</p>
 <figure>
 					<img src="images/globe.jpg" alt="globe" />
 					<figcaption>Globe</figcaption>
 				</figure>
-        
+
 # Ocean Man
 <aside class="notes">Ocean Man</aside>
 <figure>
@@ -55,7 +58,7 @@ Take me by the Hand
 					<figcaption>Squidward</figcaption>
 				</figure>
         
-# The crust of a tan man emibed by the sand
+# 
 <aside class="notes">The crust of a tan man emibed by the sand</aside>
 <figure>
 					<img src="images/tanmantrump.jpg" alt="tanmantrump" />
@@ -85,9 +88,16 @@ Take me by the Hand
 					<img src="images/squidward.jpg" alt="squidoceanman" />
 					<figcaption>Squidward</figcaption>
 				</figure>
-        
-# The crust is eluzive when it casts forth to the childlike man
-<aside class="notes">The crust is eluzive when it casts forth to the childlike man</aside>
+
+# The crust is elusive when it casts forth
+<aside class="notes"> The crust is elusive when it casts forth</aside>
+<figure>
+					<img src="images/pizzacrust.jpg" alt="crust" />
+					<figcaption>crust</figcaption>
+				</figure>
+
+# To the childlike man
+<aside class="notes">To the childlike man</aside>
 <figure>
 					<img src="images/manchild.jpg" alt="manchild" />
 					<figcaption>ManChild</figcaption>
@@ -202,13 +212,20 @@ Take me by the Hand
 					<img src="images/squidward.jpg" alt="squidoceanman" />
 					<figcaption>Squidward</figcaption>
 				</figure>
-        
-# The crust is eluzive when it casts forth to the childlike man
-<aside class="notes">The crust is eluzive when it casts forth to the childlike man</aside>
+				
+# The crust is elusive when it casts forth
+<aside class="notes"> The crust is elusive when it casts forth</aside>
+<figure>
+					<img src="images/pizzacrust.jpg" alt="crust" />
+					<figcaption>crust</figcaption>
+				</figure>
+
+# To the childlike man
+<aside class="notes">To the childlike man</aside>
 <figure>
 					<img src="images/manchild.jpg" alt="manchild" />
 					<figcaption>ManChild</figcaption>
-				</figure>
+				</figure>        
         
 # Ocean Man
 <aside class="notes">Ocean Man</aside>
