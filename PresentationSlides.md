@@ -121,11 +121,11 @@ Ocean Man
         
 # slide 18
 Ocean Man
-<section data-background-video="images/copsolo.mp4" data-background-video-loop/>
+<section data-background-video="images/cop.webm" data-background-video-loop/>
 
 # slide 19
 Ocean Man
-<section data-background-video="images/kangaroo.mp4" data-background-video-loop />
+<section data-background-video="images/kangaroo.webm" data-background-video-loop />
 
 # slide 20
 Ocean Man
