@@ -6,7 +6,6 @@
 <aside class="notes">
 The song is Ocean Man by Ween from the Spongebob Squarepants Movie
 </aside>
-Ocean Man
 <figure>
 					<img src="images/OceanMan1.jpg" alt="OceanMan1" />
 					<figcaption>OceanMan</figcaption>
