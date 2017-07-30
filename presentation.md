@@ -2,7 +2,7 @@
 % Ridge Hamre
 % July 31st, 2017
 
-# 1st slide
+# Ocean Man
 <aside class="notes">
 The song is Ocean Man by Ween from the Spongebob Squarepants Movie
 </aside>
@@ -33,7 +33,7 @@ that you understand
 					<figcaption>Land</figcaption>
 				</figure>
         
-# Slide 5
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/squidward.jpg" alt="squidoceanman" />
@@ -47,7 +47,7 @@ The voyage to the corner of the globe is a real trip
 					<figcaption>Globe</figcaption>
 				</figure>
         
-# slide 7
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/squidward.jpg" alt="squidoceanman" />
@@ -68,7 +68,7 @@ Soaking up the thirst of the land
 					<figcaption>Straw</figcaption>
 				</figure>
         
-# slide 10
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/squidward.jpg" alt="squidoceanman" />
@@ -78,7 +78,7 @@ Ocean Man
 # slide 11
 Can you see through the wonder of amazement at the oberman
 
-# slide 12
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/squidward.jpg" alt="squidoceanman" />
@@ -92,7 +92,7 @@ The crust is eluzive when it casts forth to the childlike man
 					<figcaption>ManChild</figcaption>
 				</figure>
         
-# slide 14
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/squidward.jpg" alt="squidoceanman" />
@@ -112,22 +112,22 @@ Soaking up the thirst of the land
 					<figcaption>Straw</figcaption>
 				</figure>
         
-# slide 17
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/copsolo.mp4" alt="copsolo" />
 					<figcaption>guitar solo</figcaption>
 				</figure>
         
-# slide 18
+# Ocean Man
 Ocean Man
 <section data-background-video="images/cop.webm" data-background-video-loop/>
 
-# slide 19
+# Ocean Man
 Ocean Man
 <section data-background-video="images/kangaroo.webm" data-background-video-loop />
 
-# slide 20
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/squidward.jpg" alt="squidoceanman" />
@@ -150,7 +150,7 @@ Lead me to the land
 # slide 23
 that you understand
 
-# slide 24
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/squidward.jpg" alt="squidoceanman" />
@@ -163,7 +163,7 @@ The voyage to the corner of the globe is a real trip
 					<figcaption>Globe</figcaption>
 				</figure>
         
-# slide 26
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/squidward.jpg" alt="squidoceanman" />
@@ -184,7 +184,7 @@ Soaking up the thirst of the land
 					<figcaption>Straw</figcaption>
 				</figure>
         
-# slide 29
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/squidward.jpg" alt="squidoceanman" />
@@ -194,7 +194,7 @@ Ocean Man
 # slide 30
 Can you see through the wonder of amazement at the oberman
 
-# slide 31
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/squidward.jpg" alt="squidoceanman" />
@@ -208,7 +208,7 @@ The crust is eluzive when it casts forth to the childlike man
 					<figcaption>ManChild</figcaption>
 				</figure>
         
-# slide 33
+# Ocean Man
 Ocean Man
 <figure>
 					<img src="images/squidward.jpg" alt="squidoceanman" />
