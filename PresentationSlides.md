@@ -55,7 +55,7 @@ Ocean Man
 				</figure>
         
 # slide 8
-The curst of a tan man emibed by the sand
+The crust of a tan man emibed by the sand
 <figure>
 					<img src="images/tanmantrump.jpg" alt="tanmantrump" />
 					<figcaption>TanTrump</figcaption>
@@ -165,7 +165,7 @@ Ocean Man
 				</figure>
         
 # slide 27
-The curst of a tan man emibed by the sand
+The crust of a tan man emibed by the sand
 <figure>
 					<img src="images/tanmantrump.jpg" alt="tanmantrump" />
 					<figcaption>TanTrump</figcaption>
