@@ -132,22 +132,24 @@ The voyage to the corner of the globe is a real trip
         
 # Ocean Man
 <aside class="notes">Ocean Man</aside>
-<section data-background-video="images/cop.webm" data-background-video-loop/>
+<section data-background-video="images/cop.webm" data-background-video-loop>
+</section>
 
 # Ocean Man
 <aside class="notes">Ocean Man</aside>
-<section data-background-video="images/kangaroo.webm" data-background-video-loop />
+<section data-background-video="images/kangaroo.webm" data-background-video-loop>
+</section>
 
 # Ocean Man
 <aside class="notes">Ocean Man</aside>
 <figure>
-					<img src="images/squidward.jpg" alt="squidoceanman" />
+					<img src="images/squidward.jpg" alt="squidoceanman"/>
 					<figcaption>Squidward</figcaption>
 				</figure>
         
 # Take me by the Hand
 <aside class="notes">Take me by the Hand</aside>
-<figure><img src="images/lukeandjules_girlfriend-led-10.jpg" alt="leadinghand" />
+<figure><img src="images/lukeandjules_girlfriend-led-10.jpg" alt="leadinghand"/>
 					<figcaption>LeadingHand</figcaption>
 				</figure>
         
